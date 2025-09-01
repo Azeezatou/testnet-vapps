@@ -2,7 +2,7 @@ vApp Submission: [ProofFlip]
 Verification
 github_username: "Azeezatou"
 discord_id: "979677014346854422"
-timestamp: "2025-01-15"
+timestamp: "2025-09-01"
 
 Developer
 Name: Abdulqadir Azeezat
